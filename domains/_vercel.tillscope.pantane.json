@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Pantane1",
+    "email": "pantane254@gmail.com"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=tillscope.pantane.is-a.dev,<YOUR_TOKEN>"
+  }
+}
